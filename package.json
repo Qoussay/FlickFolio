@@ -1,0 +1,22 @@
+{
+  "name": "flickfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qoussay/FlickFolio.git"
+  },
+  "author": "Qoussay El Akkari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qoussay/FlickFolio/issues"
+  },
+  "homepage": "https://github.com/Qoussay/FlickFolio#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
