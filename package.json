@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Qoussay/FlickFolio#readme",
   "dependencies": {
+    "dotenv": "^16.1.4",
     "express": "^4.18.2"
   }
 }
